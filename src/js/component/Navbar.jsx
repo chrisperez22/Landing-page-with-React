@@ -3,10 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <div>
-        		<div className="navbar bg-dark">
-			<div className="container-fluid">
-
-			</div>
+      <div className="navbar bg-dark">
 			<h1 className="start" >Start Boostrap</h1>
 			<ul className="nav justify-content-end">
   <li className="nav-item">
