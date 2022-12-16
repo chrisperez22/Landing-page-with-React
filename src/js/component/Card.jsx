@@ -10,9 +10,7 @@ const Card = (props) => {
         <p className="card-text">
           {props.text}
         </p>
-        <a href="#" className="btn btn-primary">
-          Learn More!
-        </a>
+       
       </div>
     </div>
   

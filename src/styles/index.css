@@ -15,9 +15,9 @@
 .card-title{
     font-size: 50px;
 }
-#footer{
-    position: absolute;
-    bottom: 0;
+.footer{
+    /* position: absolute;
+    bottom: 0; */
     width: 100%;
     color: white;
     text-align: center;

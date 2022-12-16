@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div>
       <div className="navbar bg-dark">
-			<h1 className="start" >Start Boostrap</h1>
+			<h1 className="start" >4 Geeks Academy</h1>
 			<ul className="nav justify-content-end">
   <li className="nav-item">
     <a className="nav-link active" aria-current="page" href="#">Home</a>
